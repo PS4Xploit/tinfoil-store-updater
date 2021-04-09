@@ -1,0 +1,1 @@
+# tinfoil-store-updater
